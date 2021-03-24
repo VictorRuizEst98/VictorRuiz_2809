@@ -1,0 +1,14 @@
+Tarea 5 Concepto de organización.
+
+Creo que es posible definir la organizacion de los centros de computo como una estructura que gestiona y controla
+todas las actividades, tiempos, recursos y sucesos referentes a el mismo centro con el fin de mantener el sistema funcionando
+de la mejor manera posible durante el mayor tiempo posible. 
+
+Por ejemplo, como parte de las actividades en las que la organizacion de un centro de computo toma partido
+se encontrarian cosas como:
+
+	*El respaldo de la información. En esta parte hay que controlar tanto los recursos de hardware (Discos duros,nube, etc.)
+	 y los recursos de software.
+	*Mantenimiento de los equipos de computo, tanto en la parte fisica cambiando y limpiando componentenes de hardware
+	 como en la parte virtual actualizando controladores y software continuamente.
+	*Llevar algun registro sobre fallas o problemas que presenten los equipos.
